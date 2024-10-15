@@ -20,3 +20,11 @@ def plot_solution(result_list: list, coordinates: np.ndarray, weights: np.ndarra
     cbar.set_label('Weights')
    
     plt.show()
+
+def score(path: list, distance: np.ndarray, costs: np.ndarray) -> int:
+    score=0
+    for x in range(1,len(path)):
+        score+=distance[path[x-1]][path[x]]+costs[path[x]]
+   
+    score+=distance[path[-1]][path[0]]+costs[path[0]]
+    return int(score[0])
