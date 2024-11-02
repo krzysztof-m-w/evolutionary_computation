@@ -27,7 +27,7 @@ def score(path: list, distance: np.ndarray, costs: np.ndarray) -> int:
         score+=distance[path[x-1]][path[x]]+costs[path[x]]
    
     score+=distance[path[-1]][path[0]]+costs[path[0]]
-    return int(score[0])
+    return int(score)
 
 def greedy_2_regret_weighted(starting_point: int, distance_matrix: np.ndarray, costs: np.ndarray, weight_regret=0.5) -> list:
     cost_matrix = (distance_matrix + costs).T 
