@@ -1,6 +1,12 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+def get_random_solution(n: int) -> list[int]:
+    a=np.arange(0,n)
+    np.random.shuffle(a)
+
+    return list(a[:int(np.ceil(n/2))])
+
 def plot_solution(result_list: list, coordinates: np.ndarray, weights: np.ndarray, title: str) -> None:
     plt.figure(figsize=(12, 6))
     plt.title(title)
