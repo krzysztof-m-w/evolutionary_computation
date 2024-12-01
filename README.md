@@ -7,3 +7,4 @@ Reports in a form of google docs:
 * lab4: https://docs.google.com/document/d/1dixD195MfzIMuons7kbNyhdFE3WCdVHsV6_u8rlEMPg/edit?usp=sharing
 * lab5: https://docs.google.com/document/d/1SPZ4MLZ6qOnuLVBlhmrFr1Ti56f-XthNjOd7JU3ihmw/edit?usp=sharing
 * lab6: https://docs.google.com/document/d/1qQWsN0HlrDQCwM2b9X32dsyEU6InnraVavd-LK9raU8/edit?usp=sharing
+* lab7: https://docs.google.com/document/d/1EEHQc6MgxqVAJMmDjpHe1z6mweXeNdQ_-PtZXUxsS0E/edit?usp=sharing
