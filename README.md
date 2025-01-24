@@ -10,3 +10,4 @@ Reports in a form of google docs:
 * lab7: https://docs.google.com/document/d/1EEHQc6MgxqVAJMmDjpHe1z6mweXeNdQ_-PtZXUxsS0E/edit?usp=sharing
 * lab8: https://docs.google.com/document/d/12vcaKwfkAN6VfiybMdbrQf4Ltt5HGfbx97Mu3ACmtmw/edit?usp=sharing
 * lab9: https://docs.google.com/document/d/1H2SoA0w5hNmHbjuahI-PcqI1vkojyyOL_ei8MTbbYbU/edit?usp=sharing
+* lab10: https://docs.google.com/document/d/1jKO92YpTaqfRMDWI56SwioIFp3Z50BPnZ22ZLMoBFds/edit?usp=sharing
